@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Orhun Cem Gença</h1>
 <h3 align="center">A passionate fullstack developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **Db First MVC Website Project**
+- 🔭 I’m currently working on **ASP.NET-Core-Personel-Tracking-System**
 
 - 🌱 I’m currently learning **Full Stack Development Course**
 
